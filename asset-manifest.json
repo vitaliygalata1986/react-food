@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/vitaliygalata1986/react-food/static/css/main.f855039b.css",
-    "main.js": "/vitaliygalata1986/react-food/static/js/main.4190d74e.js",
-    "index.html": "/vitaliygalata1986/react-food/index.html",
-    "main.f855039b.css.map": "/vitaliygalata1986/react-food/static/css/main.f855039b.css.map",
-    "main.4190d74e.js.map": "/vitaliygalata1986/react-food/static/js/main.4190d74e.js.map"
+    "main.css": "/react-food/static/css/main.f855039b.css",
+    "main.js": "/react-food/static/js/main.4190d74e.js",
+    "index.html": "/react-food/index.html",
+    "main.f855039b.css.map": "/react-food/static/css/main.f855039b.css.map",
+    "main.4190d74e.js.map": "/react-food/static/js/main.4190d74e.js.map"
   },
   "entrypoints": [
     "static/css/main.f855039b.css",
